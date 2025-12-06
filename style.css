@@ -1,0 +1,12 @@
+.centered {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    font-size: 55px;
+}
+
+* {
+    font-family: 'JetBrains Mono', monospace;
+}
