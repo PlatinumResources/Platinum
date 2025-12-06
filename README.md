@@ -1,3 +1,3 @@
-<div style="text-align: centered;">
-Platinum
-</div>
+# Platinum
+
+"A resource website ran off an old pc held together with duct tape"
