@@ -4,6 +4,6 @@
 
 ## Plans
 
--Add majority of UGS games
--Add multiple Proxies
+-Add majority of UGS games  
+-Add multiple Proxies  
 -Add other things
